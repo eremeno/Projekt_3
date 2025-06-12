@@ -1,7 +1,7 @@
 # **Tretí projekt na Python Akademii od Engeta.**
 
 ## Popis projektu
-Tento projekt slouží ke extrahování výsledků z parlamentních voleb v roce 2017. Odkaz k prohlédnutí nyjdete zde.
+Tento projekt slouží ke extrahování výsledků z parlamentních voleb v roce 2017. Odkaz k prohlédnutí nyjdete [zde](volby.cz).
 
 ## Instalace knihoven
 Knihovny, které jsou použity v kodu jsou uložene v souboru requiments.txt. 
