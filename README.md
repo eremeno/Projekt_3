@@ -33,4 +33,4 @@ Stahuji data z vybraneho `URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ
 Ukladam do souboru: `vysledky_beroun.csv`
 Okoncuji `main.py`
 
-Výstup: `vysledky_beroun.csv`
+Výstup: `[vysledky_beroun.csv]`
