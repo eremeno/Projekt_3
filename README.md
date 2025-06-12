@@ -14,7 +14,9 @@ pip install -r requirements.txt
 
 ## Spuštění projektu
 Spuštění souboru main.py v rámci přík. řadku požaduje dva povinné argumenty.
+```
 python main.py "https://www.volby.cz/pls/ps2017nss/ps32?..." vystup_okres.csv
+```
 
 ## Ukázka projektu
 Výsledky hlasování pro okres Beroun:
