@@ -6,9 +6,11 @@ Tento projekt slouží ke extrahování výsledků z parlamentních voleb v roce
 ## Instalace knihoven
 Knihovny, které jsou použity v kodu jsou uložene v souboru requiments.txt. 
 Pro instalaci doporučuji použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
-> `pip3 --version`
-> 
-> `pip install -r requirements.txt`
+```
+pip3 --version
+pip install -r requirements.txt
+```
+
 
 ## Spuštění projektu
 Spuštění souboru main.py v rámci přík. řadku požaduje dva povinné argumenty.
