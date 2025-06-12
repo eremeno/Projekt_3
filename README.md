@@ -29,8 +29,11 @@ Spuštění programu:
 paython main.py https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102 vysledky_beroun.csv
 ```
 Průběh stahování:
+
 Stahuji data z vybraneho `URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102`
+
 Ukladam do souboru: `vysledky_beroun.csv`
+
 Okoncuji `main.py`
 
 Výstup: [vysledky_beroun.csv](https://github.com/eremeno/Projekt_3/blob/main/vysledky_beroun.csv)
