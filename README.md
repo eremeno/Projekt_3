@@ -20,15 +20,16 @@ python main.py "https://www.volby.cz/pls/ps2017nss/ps32?..." vystup_okres.csv
 
 ## Ukázka projektu
 Výsledky hlasování pro okres Beroun:
-1. argument: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102
-2. argument: vysledky_beroun.csv 
+1. argument: `https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102`
+2. argument: `vysledky_beroun.csv` 
 
 Spuštění programu:
+```
 paython main.py https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102 vysledky_beroun.csv
-
+```
 Průběh stahování:
-Stahuji data z vybraneho URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102
-Ukladam do souboru: vysledky_beroun.csv
-Okoncuji main.py
+Stahuji data z vybraneho `URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102`
+Ukladam do souboru: `vysledky_beroun.csv`
+Okoncuji `main.py`
 
-Výstup: vysledky_beroun.csv
+Výstup: `vysledky_beroun.csv`
