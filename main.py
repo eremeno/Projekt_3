@@ -18,7 +18,7 @@ Na základě zadané URL územního celku (např. okresu) stáhne pro každou ob
 Data jsou následně uložena do CSV souboru s odpovídající hlavičkou.
 
 Spuštění:
-    python volby.py "https://www.volby.cz/pls/ps2017nss/ps32?..." vystup_okres.csv
+    python main.py "https://www.volby.cz/pls/ps2017nss/ps32?..." vystup_okres.csv
 """
 
 import sys
